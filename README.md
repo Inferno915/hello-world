@@ -1,3 +1,2 @@
 # hello-world
-hello
-I'm gonna have to learn a lot
+autista csapat első projectmunkája, sok szenvedéssel, fasszopással és mégtöbb háborús márióval
